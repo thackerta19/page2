@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Page 2
 
 You can use the [editor on GitHub](https://github.com/thackerta19/page2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
